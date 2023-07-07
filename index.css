@@ -1,0 +1,42 @@
+body {
+    background-image: url("https://th.bing.com/th/id/OIP.Za7R8p_HeUkXoJNp1BgbBgHaJQ?w=158&h=198&c=7&r=0&o=5&dpr=1.4&pid=1.7");
+    background-size: cover;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+}
+
+h1 {
+    margin-top: 40px;
+    margin-bottom: 10px;
+    text-shadow: 4px 4px darkgreen;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+    text-shadow: 4px 4px darkgreen;
+}
+
+button {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#increment-btn {
+    background: darkred;
+    border-top: dotted 6px hotpink;
+}
+
+#save-btn {
+    background: darkgreen;
+    border-bottom: dotted 6px hotpink;
+}
+
